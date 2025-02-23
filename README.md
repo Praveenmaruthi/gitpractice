@@ -1,4 +1,4 @@
 # gitpractice
 This is my first repository
 <br>
-author : Praveen Maruthi
+author : Praveen Maruthi(chinna)
